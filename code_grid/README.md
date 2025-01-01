@@ -1,6 +1,3 @@
-Here’s an updated, more professional version of your `README.md` for the CodeGrid project:
-
-
 # CodeGrid
 
 CodeGrid is an open-source Flutter-based application designed to provide developers with quick access to cheat sheets, essential commands, and concepts for various frameworks, tools, and technologies. It serves as a convenient resource for reviewing knowledge and staying up-to-date with the latest development practices.
